@@ -1,0 +1,102 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm2JBzA11nmk6xhkWJ57WaGOyC-trljUlAfQ&usqp=CAU);
+    color: antiquewhite;
+    font-size: 40px;
+    margin: 0px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black
+}
+
+nav{
+    padding-left: 242px;
+    padding-right: 242px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #202020;
+    border-bottom: 5px solid darkgreen;
+}
+
+button{
+    font-size: 18px;
+    padding: 2px;
+    background-color:darkgray;
+}
+
+button a{
+    color:darkgreen ;
+}
+
+ul.art{
+    list-style-type: none;
+}
+
+h2{
+    text-align: justify;
+    font-size: 25px;
+}
+
+#intro{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    display: block;
+}
+
+#intro2{
+    text-align: center;
+}
+
+.introducao{
+    display: block;
+    font-size: 19px;
+    line-height: 23pt;
+    text-align: center;
+}
+
+.foda{
+    padding-right: 180px;
+    padding-left: 180px;
+}
+
+.imgintro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid black;
+}
+
+.legenda1{
+    text-align: center;
+}
+
+.fase{
+    font-size: 19px;
+    line-height: 23pt;
+}
+
+em{
+    font-size: 19px;
+}
+
+li{
+    font-size: 17px;
+}
+
+.imglat{
+    height: 300px;
+    width:auto;
+    border: 5px solid black;
+}
+
